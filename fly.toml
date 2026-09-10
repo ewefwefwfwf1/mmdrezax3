@@ -18,4 +18,4 @@ primary_region = "fra"
 
 [[mounts]]
   source = "xui_data"
-  destination = "/etc/x-ui"
+  destination = "/app/data"
